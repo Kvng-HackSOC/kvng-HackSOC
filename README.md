@@ -42,8 +42,4 @@ I am a passionate software developer, cybersecurity engineer, and penetration te
 
 ---
 
-## 📷 Photo
 
-![Profile Placeholder](https://media.gettyimages.com/id/3230646/photo/headshot-portrait-of-austrian-writer-franz-kafka-as-a-young-man-in-a-jacket-and-tie.jpg?s=612x612&w=0&k=20&c=0futDEpaxm7DS0BHdhDdXdM4YJxS9a6KKIJGc2xg9wo=)
-
----
