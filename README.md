@@ -13,7 +13,7 @@ I am a passionate software developer, cybersecurity engineer, and penetration te
 ## 🛠️ Top Skills
 
 - **Operating Systems:** Linux (Kali Linux, Debian)
-- **Programming Languages:** Python, JavaScript (Node.js, React, Next.js), Havacript
+- **Programming Languages:** Python, JavaScript (Node.js, React, Next.js), C++, ASP.NET
 - **Frameworks:** FastAPI
 - **Cybersecurity Tools:** Burp Suite, ZAP
 - **Machine Learning:** Large Language Models
